@@ -1,0 +1,217 @@
+body{
+  color: #345678;
+  font-family: monospace,sans-serif,serif;
+  margin: 0;
+  text-align: center;
+}
+.aboutme{
+  background-color: green;
+  padding: 120px;
+}
+h1{
+  color: red;
+  font-family: cursive,fantasy,monospace;
+  font-size: 7rem;
+  margin: 0 auto 0 auto;
+  color: #432156;
+}
+h2{
+  color: yellow;
+  font-family: fantasy,sans-serif,fantasy;
+  font-size: 1.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+  color:#123456;
+  font-family: cursive,sans-serif,serif;
+}
+.message{
+  color: #657634;
+  font-family: cursive,monospace,fantasy;
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 70px;
+  margin-top: 50px;
+}
+.introduction{
+  font-size: 1.17em;
+  margin-block-start:1em;
+    margin-block-end:1em;
+      margin-inline-start:0px;
+        margin-inline-end:0px;
+        color:#098789;
+        line-height: 2;
+        font-weight: 700;
+        width: 40%;
+        margin: auto;
+        padding-bottom: 35px;
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-width: 5px;
+  border-color: black;
+  width: 4%;
+  color: #343343;
+}
+.leftimage{
+  border-radius: 50%;
+  background-color: #876987;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.rightimage{
+  border-radius: 50%;
+  background-color: #987654;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 10px auto 120px auto;
+  color: #765098;
+}
+.skill{
+  margin-top: 80px;
+  color: #123123;
+}
+p{
+  line-height: 2;
+  font-weight: 700;
+  color: #000000;
+}
+.button{
+  background-color: #765345;
+  border-radius: 12px;
+  color:red;
+  font-family: cursive,fantasy,monospace;
+  padding: 15px;
+  text-decoration: none;
+}
+.button1{
+  background-color: #878787;
+  border-radius: 12px;
+  color:black;
+  font-family: cursive,fantasy,monospace;
+  padding: 15px;
+  text-decoration: none;
+}
+.button:hover{
+  background-color: #675456;
+  border-radius: 12px;
+  color: pink;
+  font-family: fantasy,monospace,sans-serif;
+  padding: 15px;
+  text-decoration: none;
+}
+.button:hover{
+  background-color: #987654;
+}
+.footer{
+  background-color: #123456;
+  padding: 50px 0 20px;
+}
+.footer a{
+  color: #675498;
+}
+a{
+  text-decoration: none;
+  color: #342987;
+}
+.link{
+  padding: 10px;
+  color: #988123;
+}
+.link:hover{
+  color:pink;
+}
+.contact{
+  margin: 70px 0px;
+  color: #111111;
+}
+.nav{
+  position: absolute;
+              background-color: #444;
+              list-style-type: none;
+              width: 100%;
+              padding: 0px;
+}
+.nav li{
+  display: flex;
+            flex-direction: column;
+            float: left;
+}
+.nav li a{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+          text-decoration: none;
+          color: red;
+          display: block;
+          padding: 15px 53px;
+          font-size: 24px;
+}
+.nav li a:hover{
+  background-color: #888;
+}
+a{
+  padding-right: 40px;
+}
+a:hover{
+  color: #987123;
+}
+.aboutme-education{
+  background-color:yellow;
+  padding: 50px;
+}
+.education{
+  color: #123765;
+  font-family: monospace,sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+.linkedin a {
+  color:#334455;
+  font-family: serif;
+}
+.edu-data-li{
+  padding: 10px;
+}
+li{
+  list-style-type: none;
+}
+.aboutme-work {
+  background-color: #098123;
+  padding:50px;
+}
+.pen{
+  color: #110055;
+  font-family: monospace;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 18px;
+}
+.link-web{
+  line-height: 3;
+}
+.aboutme-skills{
+  background-color: #123098;
+  padding: 50px;
+}
+.skills-data{
+  margin:0 auto 30px;
+  width:50%;
+}
+table{
+  font-family: sans-serif;
+  margin: auto;
+}
+td{
+  padding: 10px;
+  text-align: center;
+}
+.nav a{
+  color:#239854;
+}
